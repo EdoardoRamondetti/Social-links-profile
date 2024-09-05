@@ -65,7 +65,8 @@ li{
 
 li:hover{
     cursor: pointer;
-    background-color: hsl(0, 0%, 8%);
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
     transition: 0.3s;
 }
 
